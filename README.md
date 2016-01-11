@@ -1,10 +1,16 @@
-## Your Name
+## Edward Antony Withers
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Junior developer/software engineer. Former English and Maths tutor. Studied code at Makers Academy and fell in love with  programming and design. Seeking an entry-level developer role with a focus on TDD/BDD, software craftsmanship and continued learning and innovation.
 
-## Skills
+## Code Examples
 
-#### This Skill
+Project Name | Description | Technologies | Testing
+--- | --- | ---
+[just_ballz](https://github.com/dearshrewdwit/just_ballz) |  Just Ballz is a hand-motion-controlled robot app. Uses a Leap Motion Sensor and a Sphero. Built in two weeks as a native OSX app for Makers Academy final project. | Node.js, AngularJS | Jasmine, Karma
+[Maker Pair](https://github.com/dearshrewdwit/maker-pair) | A Ruby on Rails app designed to match prospective Makers with current students. | RubyOnRails  | RSpec, Capybara
+[Message Board](https://github.com/dearshrewdwit/api-challenge) | RESTful single page message-posting app built to learn AJAX and pass data in JSON. |  Javascript, Ruby, Sinatra, PostgreSQL with DataMapper | RSpec, Capybara
+
+
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
