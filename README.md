@@ -1,6 +1,6 @@
 ## Edward Antony Withers
 
-Junior developer/software engineer. Former English and Maths tutor. Studied code at Makers Academy and fell straight in love with  programming and design. Seeking an entry-level developer role with a focus on test-driven software craftsmanship and continued learning. With a little table tennis on the side.
+Junior developer/software engineer. Former English and Maths tutor. Studied code at Makers Academy and fell straight in love with  programming and design. Seeking a challenging entry-level developer role with a focus on test-driven software craftsmanship and continued learning.
 
 ## Code Examples
 
@@ -11,39 +11,51 @@ Project Name | Description | Technologies | Testing
 [Message Board](https://github.com/dearshrewdwit/api-challenge) | RESTful single page message-posting app built to learn AJAX with simple Javascript and pass data in JSON. |  Javascript, Ruby, Sinatra, PostgreSQL with DataMapper, Heroku | RSpec, Capybara
 [To Do App](https://github.com/dearshrewdwit/todo_challenge) | Single page app to learn AngularJS, Karma & Protractor. Deployed to Heroku using Node.js & Express.js. | Javascript, AngularJS, Node.js, Express.js, Heroku | Karma, Protractor
 
+## Skills
+
+#### Full Stack developer
+- Ruby/Sinatra/PostgreSQL/Javascript
+- RubyOnRails/PostgreSQL/Javascript
+- Node.js/Express.js/AngularJS/Mongo (MEAN)
+
+#### Team Player
+- Hired as part of a selective 8-person team, during my 3rd year at university, to mentor first-year students at New York University's new campus in Abu Dhabi.
+- Successfully built the Makers Academy final project as part of a 5-person team where we developed an OSX native app to control Sphero robots by hand motion. Practiced Agile methodologies which included pairing, stand-ups twice a day, retrospective sessions every three days, waffleboard & git flow.
+
 ## Education
 
 #### Makers Academy (Oct 2015 to Jan 2016)
 
-- Independent learner and focused problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Pair Programming, Agile practices
-- Ruby, Rails, Javascript, Node.js, AngularJS
+- Independent and focused problem-solver
+- A lot of cool acronyms: OOP, TDD, SOLID, MVC, DDD
+- Pairing is awesome
+- Agile practices: stand-ups, retros,
+- Ruby, Sinatra, Rails, Javascript, Node.js, Express.js, AngularJS
 - RSpec, Capybara, Jasmine, Karma, Protractor
 
-#### New York University / College of Arts & Sciences (Aug 2008 to May 2012)
+#### New York University (USA)/ College of Arts & Sciences (Aug 2008 to May 2012)
 
-- BA Politics, Middle Eastern Studies
+- BA Politics, minors in Middle Eastern Studies, Creative Writing
 - Year abroad in Abu Dhabi, UAE
 
 ## Experience
 
-**Kaplan Test Prep**  (May 2015 to present)    
+**Kaplan Test Prep**  | London (May 2015 to present)    
 *Tutor*  | Taught university entrance examinations: SAT, UKCAT
 
-**The Princeton Review** (May 2014 to May 2015)   
+**The Princeton Review** | NYC & Dubai (May 2014 to May 2015)   
 *Tutor* | Taught university entrance examinations: SAT, GRE, GMAT, IELTS
 
-**Modern Martial Arts** (Aug 2012 to Aug 2013)   
+**Modern Martial Arts** | NYC (Aug 2012 to Aug 2013)   
 *Assistant Manager* | Coordinated Instructors & maintained membership database
 
-**New York University** (Aug 2010 to May 2012)   
+**New York University** | NYC & Abu Dhabi (Aug 2010 to May 2012)   
 *Resident Assistant* | Academic mentor, program organizer, first responder
 
 #### Other
 
-- The Princeton Review & Kaplan Test Prep certified tutor
-- Interests: hiking, Brazilian jiu jitsu, skiing, chess, table tennis
+- The Princeton Review & Kaplan Test Prep certified  private and classroom tutor
+- Interests: hiking, Brazilian jiu-jitsu, skiing, chess, table tennis, exploration
+- Countries I've lived and worked in include UK, US, UAE, Singapore & Mauritius.
 - Dual UK/US citizenship
-- Lived in UK, US, UAE, Singapore
+- I've interviewed Former UK PM Gordon Brown, ran 150miles from the Dead Sea to the Red Sea, and been to the burning steps on the Ganges in Varanasi, India.
