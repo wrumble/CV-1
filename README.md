@@ -14,12 +14,11 @@ Project Name | Description | Technologies | Testing
 ## Skills
 
 #### Full Stack developer
-- Ruby/Sinatra/PostgreSQL/Javascript
-- RubyOnRails/PostgreSQL/Javascript
-- Node.js/Express.js/AngularJS/Mongo (MEAN)
+- During Makers Academy, developed fully tested web apps using different stacks including MEAN, RubyOnRails, and Ruby on Sinatra.
 
 #### Team Player
-- Hired as part of a selective 8-person team, during my 3rd year at university, to mentor first-year students at New York University's new campus in Abu Dhabi.
+- Hired as part of a selective 8-person team, during my 3rd year at university, to mentor first-year students at New York University's new campus in Abu Dhabi. Team received President Service Award.
+- Worked as part of a 4-person test-prep specialist team for 6 months in Dubai to improve student test results. Coordinated syllabi across US and UAE branches, and adapted material for the different market.
 - Successfully built the Makers Academy final project as part of a 5-person team where we developed an OSX native app to control Sphero robots by hand motion. Practiced Agile methodologies which included pairing, stand-ups twice a day, retrospective sessions every three days, waffleboard & git flow.
 
 ## Education
