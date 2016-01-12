@@ -1,54 +1,49 @@
 ## Edward Antony Withers
 
-Junior developer/software engineer. Former English and Maths tutor. Studied code at Makers Academy and fell in love with  programming and design. Seeking an entry-level developer role with a focus on TDD/BDD, software craftsmanship and continued learning and innovation.
+Junior developer/software engineer. Former English and Maths tutor. Studied code at Makers Academy and fell straight in love with  programming and design. Seeking an entry-level developer role with a focus on test-driven software craftsmanship and continued learning. With a little table tennis on the side.
 
 ## Code Examples
 
 Project Name | Description | Technologies | Testing
 --- | --- | --- | ---
-[just_ballz](https://github.com/dearshrewdwit/just_ballz) |  Just Ballz is a hand-motion-controlled robot app. Uses a Leap Motion Sensor and a Sphero. Built in two weeks as a native OSX app for Makers Academy final project. | Node.js, AngularJS | Jasmine, Karma
-[Maker Pair](https://github.com/dearshrewdwit/maker-pair) | A Ruby on Rails app designed to match prospective Makers with current students. | RubyOnRails  | RSpec, Capybara
-[Message Board](https://github.com/dearshrewdwit/api-challenge) | RESTful single page message-posting app built to learn AJAX and pass data in JSON. |  Javascript, Ruby, Sinatra, PostgreSQL with DataMapper | RSpec, Capybara
-
-
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+[just_ballz](https://github.com/dearshrewdwit/just_ballz) |  Just Ballz is a hand-motion-controlled robot app. Uses a Leap Motion Sensor and a Sphero. Built in two weeks as a native OSX app for Makers Academy final project. | Javascript, Node.js, AngularJS, Node-webkit  | Jasmine, Karma
+[Maker Pair](https://github.com/dearshrewdwit/maker-pair) | A Ruby on Rails app designed to match prospective Makers with current students and in order to set up pairing sessions as a pre-interview screening | RubyOnRails, ActiveRecord, Heroku  | RSpec, Capybara
+[Message Board](https://github.com/dearshrewdwit/api-challenge) | RESTful single page message-posting app built to learn AJAX with simple Javascript and pass data in JSON. |  Javascript, Ruby, Sinatra, PostgreSQL with DataMapper, Heroku | RSpec, Capybara
+[To Do App](https://github.com/dearshrewdwit/todo_challenge) | Single page app to learn AngularJS, Karma & Protractor. Deployed to Heroku using Node.js & Express.js. | Javascript, AngularJS, Node.js, Express.js, Heroku | Karma, Protractor
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Oct 2015 to Jan 2016)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
+- Independent learner and focused problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Pair Programming, Agile practices
+- Ruby, Rails, Javascript, Node.js, AngularJS
+- RSpec, Capybara, Jasmine, Karma, Protractor
 
-#### Your University / College (start_date to end_date)
+#### New York University / College of Arts & Sciences (Aug 2008 to May 2012)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
+- BA Politics, Middle Eastern Studies
+- Year abroad in Abu Dhabi, UAE
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Kaplan Test Prep**  (May 2015 to present)    
+*Tutor*  | Taught university entrance examinations: SAT, UKCAT
+
+**The Princeton Review** (May 2014 to May 2015)   
+*Tutor* | Taught university entrance examinations: SAT, GRE, GMAT, IELTS
+
+**Modern Martial Arts** (Aug 2012 to Aug 2013)   
+*Assistant Manager* | Coordinated Instructors & maintained membership database
+
+**New York University** (Aug 2010 to May 2012)   
+*Resident Assistant* | Academic mentor, program organizer, first responder
+
+#### Other
+
+- The Princeton Review & Kaplan Test Prep certified tutor
+- Interests: hiking, Brazilian jiu jitsu, skiing, chess, table tennis
+- Dual UK/US citizenship
+- Lived in UK, US, UAE, Singapore
