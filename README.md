@@ -6,7 +6,7 @@ Junior developer/software engineer. Former English and Maths tutor. Studied code
 
 Project Name | Description | Technologies | Testing
 --- | --- | --- | ---
-[just_ballz](https://github.com/dearshrewdwit/just_ballz) |  Just Ballz is a hand-motion-controlled robot app. Uses a Leap Motion Sensor and a Sphero. Built in two weeks as a downloadable native OSX app for Makers Academy final project. | Javascript, Node.js, AngularJS, Node-webkit  | Jasmine, Karma
+[just_ballz](https://github.com/dearshrewdwit/just_ballz) |  Just Ballz is a hand-motion-controlled robot app. Uses a Leap Motion Sensor and a Sphero. Built in two weeks as a [downloadable](https://www.dropbox.com/s/dli2elziuqux9q3/Just%20Ballz.app.zip?dl=0) native OSX app for Makers Academy final project. | Javascript, Node.js, AngularJS, Node-webkit  | Jasmine, Karma
 [Maker Pair](https://github.com/dearshrewdwit/maker-pair) | A Ruby on Rails app designed to match prospective Makers with current students in order to set up pairing sessions with payment as a pre-interview screening. Developed during the 3 day Makerthon. | RubyOnRails, ActiveRecord, Heroku  | RSpec, Capybara
 [Message Board](https://github.com/dearshrewdwit/api-challenge) | Basic RESTful single-page message-posting app built to learn AJAX and pass JSON data from Javascript to Ruby into a database and back. Deployed to [Heroku](http://glacial-brook-6196.herokuapp.com/). |  Javascript, Ruby, Sinatra, PostgreSQL with DataMapper, Heroku | RSpec, Capybara
 [To Do App](https://github.com/dearshrewdwit/todo_challenge) | Single page app to learn AngularJS, Karma & Protractor. Deployed to [Heroku](https://protected-hollows-7018.herokuapp.com/) using Node.js & Express.js. | Javascript, AngularJS, Node.js, Express.js, Heroku | Karma, Protractor
