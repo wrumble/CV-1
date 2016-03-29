@@ -38,7 +38,10 @@ Project Name | Description | Technologies | Testing
 
 ## Experience
 
-**Kaplan Test Prep**  | London (May 2015 to present)    
+**Surfdome**  | London (March 2016 to present)    
+*Software Developer*  | Developed software
+
+**Kaplan Test Prep**  | London (May 2015 to March 2016)    
 *Tutor*  | Taught university entrance examinations: SAT, UKCAT
 
 **The Princeton Review** | NYC & Dubai (May 2014 to May 2015)   
